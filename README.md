@@ -1,1 +1,0 @@
-# Iot-based-temperature-and-humidity-monitoring-
